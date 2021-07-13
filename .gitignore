@@ -1,0 +1,14 @@
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Configuration
+config/service.json
+config/threathunter.json
+config/slack.json
+
+# Directories to ignore
+bin
